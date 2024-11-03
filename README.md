@@ -1,4 +1,4 @@
-<img src="images/profile.png" alt="Rayhan Kobir">
+<img src="images/cover.jpeg" alt="Rayhan Kobir">
 
 # Hi, I'm Rayhan Kobir!
 
